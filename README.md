@@ -1,8 +1,17 @@
 <h1>Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</h1>
 
 <h2>Description</h2>
-This is a walkthrough of how I created A Virtual Machine environment using Oracle VM Virtualbox running Windows 11. I did this project to gain experience with Nessus Essentials and learn how to scan for vulnerabilities and remediate them. This project will showcase the first two steps in the Vulnerability Management Lifecycle identification and prioritization. I will be using Nessus Essentials to scan local VMs hosted on Oracle VM Virtualbox in order to run a non-credentialed scan to discover and analyze vulnerabilities, remediate some of the vulnerabilities, then perform a rescan to verify remediation.
-<br />
+This is a walkthrough of how I created A Virtual Machine environment using Oracle VM Virtualbox running Microsft Windows 11 and Microsoft Server 2022. I did this project to gain experience with Active Directory and PowerShell to deepen my uderstanding on how organizations utilize these tools to create and manage user accounts and control access to resources on corporate networks. This project will showcase the steps I took to create a corporate domain with Windows Server 2022 utilizing Oracle VM Virtualbox to configure an internal netowrk with DHCP, create over 1,000 users with credentials with PowerShell, and manage user groups and security policies. It will also diplay the steps taken to create a Client using Windows 11, add the Client to the domain, and login to the Client using created credentials to test the functionality of the domain. 
+<br/>
+
+
+<h2>Key Learnings</h2>
+
+- Hands-on experience with Active Directory concepts and administration.
+- Understanding of virtual machine setup and networking in VirtualBox.
+- Enhanced PowerShell skills for managing Active Directory objects.
+- Troubleshooting and problem-solving in a lab environment.
+<br/>
 
 
 <h2>Utilities Used</h2>
